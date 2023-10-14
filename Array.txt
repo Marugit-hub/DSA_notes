@@ -4,8 +4,6 @@ In many programming languages, arrays are an essential part of data manipulation
 Arrays in Python:
 
 In Python, you typically work with lists, which are similar to arrays. Lists can store elements of different types, making them versatile.
-Here's how to create, manipulate, and work with arrays in Python (using lists):
-
 
 
 ################################## Here are the list of methods used in python ##########################################
